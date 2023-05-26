@@ -2,7 +2,7 @@
 
 This is a simple chat bot implementation, based on Nlpjs and Express.
 
-### Dependencies
+## Preequisites
 
 ```console
   npm install
