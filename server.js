@@ -4,6 +4,7 @@ const { json } = pkg;
 import cors from "cors";
 import bodyParser from "body-parser";
 import chatResponse from "./chatController.js";
+import chatRouter from "./src/router/chatRouter.js";
 
 const server = express();
 
@@ -31,5 +32,6 @@ server.get("/hello", (req, res) => {
 });
 
 server.get("/chat", chatResponse);
+server.use("/chatGpt", chatRouter);
 
 export default server;

@@ -1,0 +1,315 @@
+[
+  {
+    "modelName": "whisper-1",
+    "functionToCall": "undefined",
+    "signature": "undefined"
+  },
+  {
+    "modelName": "babbage",
+    "functionToCall": "undefined",
+    "signature": "undefined"
+  },
+  {
+    "modelName": "davinci",
+    "functionToCall": "undefined",
+    "signature": "undefined"
+  },
+  {
+    "modelName": "gpt-3.5-turbo-0301",
+    "functionToCall": "undefined",
+    "signature": "undefined"
+  },
+  {
+    "modelName": "gpt-3.5-turbo",
+    "functionToCall": "undefined",
+    "signature": "undefined"
+  },
+
+  {
+    "modelName": "text-davinci-edit-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-davinci-edit-001', prompt });"
+  },
+
+  {
+    "modelName": "babbage-code-search-code",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'babbage-code-search-code', prompt });"
+  },
+
+  {
+    "modelName": "text-similarity-babbage-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-similarity-babbage-001', prompt });"
+  },
+
+  {
+    "modelName": "code-davinci-edit-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'code-davinci-edit-001', prompt });"
+  },
+
+  {
+    "modelName": "text-davinci-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-davinci-001', prompt });"
+  },
+
+  {
+    "modelName": "ada",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'ada', prompt });"
+  },
+
+  {
+    "modelName": "babbage-code-search-text",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'babbage-code-search-text', prompt });"
+  },
+
+  {
+    "modelName": "babbage-similarity",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'babbage-similarity', prompt });"
+  },
+
+  {
+    "modelName": "code-search-babbage-text-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'code-search-babbage-text-001', prompt });"
+  },
+
+  {
+    "modelName": "text-curie-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-curie-001', prompt });"
+  },
+
+  {
+    "modelName": "code-search-babbage-code-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'code-search-babbage-code-001', prompt });"
+  },
+
+  {
+    "modelName": "text-ada-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-ada-001', prompt });"
+  },
+
+  {
+    "modelName": "text-similarity-ada-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-similarity-ada-001', prompt });"
+  },
+
+  {
+    "modelName": "curie-instruct-beta",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'curie-instruct-beta', prompt });"
+  },
+
+  {
+    "modelName": "ada-code-search-code",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'ada-code-search-code', prompt });"
+  },
+
+  {
+    "modelName": "ada-similarity",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'ada-similarity', prompt });"
+  },
+
+  {
+    "modelName": "code-search-ada-text-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'code-search-ada-text-001', prompt });"
+  },
+
+  {
+    "modelName": "text-search-ada-query-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-search-ada-query-001', prompt });"
+  },
+
+  {
+    "modelName": "davinci-search-document",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'davinci-search-document', prompt });"
+  },
+
+  {
+    "modelName": "ada-code-search-text",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'ada-code-search-text', prompt });"
+  },
+
+  {
+    "modelName": "text-search-ada-doc-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-search-ada-doc-001', prompt });"
+  },
+
+  {
+    "modelName": "davinci-instruct-beta",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'davinci-instruct-beta', prompt });"
+  },
+
+  {
+    "modelName": "text-similarity-curie-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-similarity-curie-001', prompt });"
+  },
+
+  {
+    "modelName": "code-search-ada-code-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'code-search-ada-code-001', prompt });"
+  },
+
+  {
+    "modelName": "ada-search-query",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'ada-search-query', prompt });"
+  },
+
+  {
+    "modelName": "text-search-davinci-query-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-search-davinci-query-001', prompt });"
+  },
+
+  {
+    "modelName": "curie-search-query",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'curie-search-query', prompt });"
+  },
+
+  {
+    "modelName": "davinci-search-query",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'davinci-search-query', prompt });"
+  },
+
+  {
+    "modelName": "babbage-search-document",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'babbage-search-document', prompt });"
+  },
+
+  {
+    "modelName": "ada-search-document",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'ada-search-document', prompt });"
+  },
+
+  {
+    "modelName": "text-search-curie-query-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-search-curie-query-001', prompt });"
+  },
+
+  {
+    "modelName": "text-search-babbage-doc-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-search-babbage-doc-001', prompt });"
+  },
+
+  {
+    "modelName": "curie-search-document",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'curie-search-document', prompt });"
+  },
+
+  {
+    "modelName": "text-search-curie-doc-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-search-curie-doc-001', prompt });"
+  },
+
+  {
+    "modelName": "babbage-search-query",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'babbage-search-query', prompt });"
+  },
+
+  {
+    "modelName": "text-babbage-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-babbage-001', prompt });"
+  },
+
+  {
+    "modelName": "text-search-davinci-doc-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-search-davinci-doc-001', prompt });"
+  },
+
+  {
+    "modelName": "text-search-babbage-query-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-search-babbage-query-001', prompt });"
+  },
+
+  {
+    "modelName": "curie-similarity",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'curie-similarity', prompt });"
+  },
+
+  {
+    "modelName": "text-embedding-ada-002",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-embedding-ada-002', prompt });"
+  },
+
+  {
+    "modelName": "gpt-3.5-turbo-0613",
+    "functionToCall": "openai.createChatCompletion",
+    "signature": "const completion = await openai.createChatCompletion({ model: 'gpt-3.5-turbo-0613', messages });"
+  },
+
+  {
+    "modelName": "curie",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'curie', prompt });"
+  },
+
+  {
+    "modelName": "gpt-3.5-turbo-16k-0613",
+    "functionToCall": "openai.createChatCompletion",
+    "signature": "const completion = await openai.createChatCompletion({ model: 'gpt-3.5-turbo-16k-0613', messages });"
+  },
+
+  {
+    "modelName": "text-similarity-davinci-001",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-similarity-davinci-001', prompt });"
+  },
+
+  {
+    "modelName": "text-davinci-002",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-davinci-002', prompt });"
+  },
+
+  {
+    "modelName": "gpt-3.5-turbo-16k",
+    "functionToCall": "openai.createChatCompletion",
+    "signature": "const completion = await openai.createChatCompletion({ model: 'gpt-3.5-turbo-16k', messages });"
+  },
+
+  {
+    "modelName": "text-davinci-003",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'text-davinci-003', prompt });"
+  },
+
+  {
+    "modelName": "davinci-similarity",
+    "functionToCall": "openai.createCompletion",
+    "signature": "const completion = await openai.createCompletion({ model: 'davinci-similarity', prompt });"
+  }
+]
